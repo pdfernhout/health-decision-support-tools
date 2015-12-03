@@ -12,8 +12,8 @@ This project is in memory of two people who pioneered decision support tools in 
 * Tom Armour who managed [DARPA's Genoa project](https://w2.eff.org/Privacy/TIA/genoaII.php) and who died of brain cancer at age 58
 
 The project's long-term goal is to:
-* gather ideas from various ["tribes" of intelligence](http://p2pfoundation.net/Tribes_of_intelligence) such as Academic, Civil Society (including religions and labor unions), Commerce, Government (including local and state), Law Enforcement, Media, Military, and Non-Government/Non-Profit
-* apply those ideas by creating software tools to help individuals and small groups collaboratively make difficult health (or other) decisions in the face of uncertainties and conflicts of interests. These might be decisions about prevention of health issues (as might have helped Al and his family) or decisions about responses to emerging health issues (as might have helped Tom and his family after his intial diagnosis).
+* Gather ideas from various ["tribes" of intelligence](http://p2pfoundation.net/Tribes_of_intelligence) such as Academic, Civil Society (including religions and labor unions), Commerce, Government (including local and state), Law Enforcement, Media, Military, and Non-Government/Non-Profit.
+* Apply those ideas by creating software tools to help individuals and small groups collaboratively make difficult health (or other) decisions in the face of uncertainties and conflicts of interests. These might be decisions about prevention of health issues (as might have helped Al and his family) or decisions about responses to emerging health issues (as might have helped Tom and his family after his intial diagnosis).
 
 ## Disclaimer
 
