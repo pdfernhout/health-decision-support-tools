@@ -33,4 +33,4 @@ It seems reasonable to predict that future versions of the tools could lower the
 
 ## Initial Example
 
-Heart disease and cancer are such complex and emotional topics they are hard to start with as motivational examples. They are just overwhelming for anyone to deal with. So, here is a simpler [initial example of a health issue](initial-health-issue-example.md) (involving a tooth ache) that the initial project committer faced and used Compendium to help make sense of and help make decisions about.
+Heart disease and cancer are such complex and emotional topics they are hard to start with as motivational examples. They are just overwhelming for anyone to deal with. So, here is a simpler [initial example of a health issue](tooth-issue-example.md) (involving a tooth ache) that the initial project committer faced and used Compendium to help make sense of and help make decisions about.
